@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-fullpage
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# fullpage
+模仿抖音的全屏滚动效果
+>>>>>>> 8073adcc283cd25ca7e166ea9e35a70bb0650d3d
